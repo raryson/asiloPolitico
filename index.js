@@ -6,4 +6,4 @@ app.get('/', (req, res) => {
     res.send('index.html')
 })
 
-app.listen(3000)
+app.listen(env.process.PORT || 3000)
