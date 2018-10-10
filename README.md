@@ -1,12 +1,12 @@
-# Asilo Político
+# :airplane: Asilo Político :airplane:
 
-## O que é esse projeto?
+## O que é esse projeto? :interrobang:
 É um projeto totalmente sem fins lucrativos que visa disponibilizar informações sobre todo o processo de asilo político em diversos países.
 
-## Como contribuir?
+## Como contribuir? :octocat:
 É só dar um fork, commitar o teu código e abrir um pull request. Alias, obrigado :)
 
-## O que preciso para contribuir?
+## O que preciso para contribuir? :computer:
 Clonar o projeto e acessar a pasta public, que fica dentro do projeto inteiro. Lá você vai executar os seguintes comandos.
 ```
 npm install
